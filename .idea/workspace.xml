@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7a8e96f-5680-4e40-80da-825b5f6f6582" name="Changes" comment="" />
+    <list default="true" id="b7a8e96f-5680-4e40-80da-825b5f6f6582" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/seleniumParte2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/seleniumParte2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/alerts_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/alerts_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/form_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/form_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/link_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/link_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/registro_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/registro_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_alerts.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_alerts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_form_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_form_select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_registro.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_registro.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,7 +39,9 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="34yZ5qwEQi0kEDLmCnfQ05FhXtq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +50,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
