@@ -15,7 +15,6 @@ class RegistroPage(BasePage):
         self.write(self.PASSWORD, password)
         self.write(self.EMAIL, email)
         self.click(self.BTN_SUBMIT)
-        # --- ASSERT: Verificar resultado ---
         mensaje = self.wait.until(
             EC.visibility_of_element_located(self.RESULTADO)
         )

@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7a8e96f-5680-4e40-80da-825b5f6f6582" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/seleniumParte2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/seleniumParte2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/alerts_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/alerts_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/form_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/form_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/link_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/link_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/registro_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/registro_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_alerts.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_alerts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_form_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_form_select.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_links.py" afterDir="false" />
@@ -35,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="34yZ5qwEQi0kEDLmCnfQ05FhXtq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,14 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
