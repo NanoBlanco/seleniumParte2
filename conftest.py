@@ -14,7 +14,6 @@ def driver():
 
     service = Service()  # Usa el ChromeDriver del PATH
     driver = webdriver.Chrome(service=service, options=options)
-    # driver.implicitly_wait(5)
 
     yield driver  # Aquí se entrega el navegador a las pruebas
 
